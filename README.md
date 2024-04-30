@@ -1,2 +1,3 @@
-# shoescape-main
-This is my final year final semester project repository
+## A shoe ecommerce website
+
+Live Demo: <https://shoe-scape.000webhostapp.com>
